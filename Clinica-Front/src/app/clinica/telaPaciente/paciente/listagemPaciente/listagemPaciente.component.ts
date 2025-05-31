@@ -14,7 +14,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 
 @Component({
   selector: 'app-listagem',
-  templateUrl: './listagem.component.html',
+  templateUrl: './listagemPaciente.component.html',
   standalone: true,
   imports: [
     CommonModule,
